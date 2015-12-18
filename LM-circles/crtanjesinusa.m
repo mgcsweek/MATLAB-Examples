@@ -1,6 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Crtanje sinusa i kosinusa
-% (c) Nedelja informatike v2.0 (csweek.mg.edu.rs)
+% (c) Nedelja informatike v2.0 (csnedelja.mg.edu.rs)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 t=[0:0.1:4*pi];
 plava=cos(t);
