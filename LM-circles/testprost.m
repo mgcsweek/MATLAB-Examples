@@ -1,6 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Testbench za brzinu racunanja velikog prostog broja
-% (c) Nedelja Informatike v2.0 (csweek.mg.edu.rs)
+% (c) Nedelja Informatike v2.0 (csnedelja.mg.edu.rs)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 disp('Nasa f-ja')
 tic 
