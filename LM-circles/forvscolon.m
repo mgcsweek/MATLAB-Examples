@@ -1,6 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Poredjenje brzine for petlje i Colon notacije
-% (c) Nedelja Informatike v2.0 (csweek.mg.edu.rs)
+% (c) Nedelja Informatike v2.0 (csnedelja.mg.edu.rs)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 A=[0:0.1:1];
