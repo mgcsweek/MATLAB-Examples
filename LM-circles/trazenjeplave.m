@@ -1,6 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Trazenje tresholda za plavu boju
-% (c) Nedelja Informatike v2.0 (csweek.mg.edu.rs)
+% (c) Nedelja Informatike v2.0 (csnedelja.mg.edu.rs)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 clear all
 close all
