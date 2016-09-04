@@ -1,6 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Klasicna funkcija za odredjivanje da li je broj prost
-% (c) Nedelja Informatike v2.0 (csweek.mg.edu.rs)
+% (c) Nedelja Informatike v2.0 (csnedelja.mg.edu.rs)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 function p = prost(n)
 t=floor(sqrt(n));
