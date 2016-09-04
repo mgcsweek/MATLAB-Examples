@@ -1,6 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Vidim plave krugove (Matlab resenje)
-% (c) Nedelja informatike v2.0 (csweek.mg.edu.rs)
+% (c) Nedelja informatike v2.0 (csnedelja.mg.edu.rs)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 clear all
 clc
